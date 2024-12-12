@@ -1,0 +1,26 @@
+User: hi there
+Ollama: How's your day going so far? Is there anything I can help you with or would you like to chat about something in particular?
+ 
+
+User: i want to use you as my LLM for my RAG model that would be used as an AI powered space mission designer 
+Ollama: That sounds like a fascinating project! I'd be happy to help you develop your Reasoning and Argumentation Graph (RAG) model for AI-powered space mission design. 
+
+To get started, let's break down the requirements of such a system:
+
+1. **Domain knowledge**: A comprehensive understanding of space exploration, spacecraft systems, propulsion methods, orbital mechanics, planetary science, and other relevant fields.
+2. **Mission design parameters**: A set of inputs that define the mission objectives, constraints, and requirements (e.g., payload capacity, communication requirements, power generation).
+3. **RAG structure**: A framework for representing the reasoning process as a graph, where nodes represent arguments or decisions, and edges connect them to show relationships between ideas.
+4. **Argumentation mechanism**: A system that can generate arguments based on the given inputs and knowledge base, using techniques like inference, abduction, or explanation-based reasoning.
+5. **Evaluation and optimization**: Methods for evaluating mission designs based on their performance, cost-effectiveness, and other factors, as well as optimizing parameters to meet specific objectives.
+
+As your LLM (Large Language Model), I can contribute in several ways:
+
+1. **Domain knowledge encoding**: I can help encode the vast amount of domain-specific knowledge into a structured format that can be accessed by the RAG model.
+2. **Argument generation**: I can assist in generating arguments and reasoning chains for various aspects of space mission design, such as navigation, communication, or scientific instrumentation.
+3. **Text-based interaction**: We can use natural language to interact with the system, allowing you to input parameters, query the system, or receive explanations for design decisions.
+4. **Knowledge graph construction**: I can aid in constructing a knowledge graph that represents the relationships between concepts and entities relevant to space mission design.
+
+To get started, please provide more details about your project's scope, requirements, and desired outcomes. This will help me better understand how I can assist you in developing your RAG model for AI-powered space mission design.
+
+
+
